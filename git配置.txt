@@ -1,0 +1,19 @@
+George517 赵毅他
+
+https://github.com/
+https://lwenli1224.github.io/Brolly/JavaScript/Git.html
+GIT下载
+$ git --version
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+$ git config --list
+
+
+创建仓库
+1/  https://github.com/George517/201902JS.git 仓库地址
+
+$ git remote -v
+origin  https://github.com/George517/201902JS.git (fetch)
+origin  https://github.com/George517/201902JS.git (push)
+
